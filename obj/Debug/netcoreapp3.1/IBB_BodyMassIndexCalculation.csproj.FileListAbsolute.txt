@@ -1,0 +1,13 @@
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.deps.json
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.runtimeconfig.json
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.runtimeconfig.dev.json
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.dll
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/bin/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.pdb
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.csprojAssemblyReference.cache
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.AssemblyInfoInputs.cache
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.AssemblyInfo.cs
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.csproj.CoreCompileInputs.cache
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.dll
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.pdb
+/home/bbk/netCoreProjects/IBB_BodyMassIndexCalculation/obj/Debug/netcoreapp3.1/IBB_BodyMassIndexCalculation.genruntimeconfig.cache
